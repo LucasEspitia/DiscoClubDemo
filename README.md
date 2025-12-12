@@ -124,6 +124,7 @@ Automatically jumps to correct time depending on scene:
 ## Extras
 
 If you wish, you can review the documents folder; there you will find more detailed information about the most important aspects of the project.
+
 ![Fig 1. Neon Lady Entrance](image-2.png)
 ![Fig 2. Dj point of view](image.png)
 ![Fig 3. Cannons firing confetti ](image-1.png)
