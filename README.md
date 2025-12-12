@@ -4,26 +4,18 @@
 
 This project is a real-time 3D nightclub demo built in C++ & OpenGL, implementing a complete rendering pipeline with:
 
-Scene graph hierarchy
-
-Keyframe-based cinematic camera system
-
-Phong & Blinn-Phong lighting
-
-Dynamic shadows via spotlight shadow maps
-
-HDR rendering with tone mapping
-
-Bloom effect (bright pass + ping-pong Gaussian blur)
-
-GPU instanced dance-floor tiles (25x16 grid)
-
-Particle systems (confetti cannons)
-
-Procedural table generation
-
-Animated DJ, neon lights, disco ball, and interior props.
-
+- Scene graph hierarchy
+- Keyframe-based cinematic camera system
+- Phong & Blinn-Phong lighting
+- Dynamic shadows via spotlight shadow maps
+- HDR rendering with tone mapping
+- Bloom effect (bright pass + ping-pong Gaussian blur)
+- GPU instanced dance-floor tiles (25x16 grid)
+- Particle systems with parabolic movement (confetti cannons)
+- Procedural table generation and complex algorithms.
+- Kinematics of objects in complex decision-making
+- Animated cannon, neon lights, disco ball, and interior props.
+- 
 The application plays a full cinematic sequence composed of several scenes:
 Entrance -> Interior -> Dance Floor -> Ending, lasting almost 3 minutes.
 
