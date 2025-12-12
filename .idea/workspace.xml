@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/LiveTemplatesHousekeeping/HotspotSessionHintIsShown/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/RefactoringsMru/RenameRefactoring/DoSearchForTextInStrings/@EntryValue" value="true" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="ppgso" targetName="ppgso" />
+      <config projectName="ppgso" targetName="gl1_gradient" />
+      <config projectName="ppgso" targetName="main" />
+      <config projectName="ppgso" targetName="shaders" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7b40d17-cf0c-4661-9a99-5306aa5fe05a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/documents/~$casEspitia_AdrianQuirante_documentation.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="GLSL Shader" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/utils/ClubbingWindow.h" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="2.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="335vZvoAFWZXfDjtiw2JTiz19mT" />
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.gl1_gradient.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.main.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;CMake Application.gl1_gradient.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.gl2_texture.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.gl3_animate.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.gl4_transform.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.gl6_mesh.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.gl7_diffuse.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.gl8_framebuffer.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.gl9_scene.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.playground.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.raw1_gradient.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.raw2_raycast.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.raw3_raytrace.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.task1_filter.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.task2_bresenham.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.task3_bezier.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.task4_2dshapes.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.task5_3d_origin.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.task6_bezier_surface.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Debug.club.executor&quot;: &quot;Debug&quot;,
+    &quot;CMake Debug.ppgso.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucas/CLionProjects/ppgso-projekt-1600-disko-klub-espitia_quirante&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CPPToolchains&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas\CLionProjects\ppgso-projekt-1600-disko-klub-espitia_quirante\data\objects\djSet" />
+      <recent name="C:\Users\lucas\CLionProjects\ppgso-projekt-1600-disko-klub-espitia_quirante\src\objects\inside\lamps" />
+      <recent name="C:\Users\lucas\CLionProjects\ppgso-projekt-1600-disko-klub-espitia_quirante\src\objects" />
+      <recent name="C:\Users\lucas\CLionProjects\ppgso-projekt-1600-disko-klub-espitia_quirante\src\scene" />
+      <recent name="C:\Users\lucas\CLionProjects\ppgso-projekt-1600-disko-klub-espitia_quirante\src\objects\djSet" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.main">
+    <configuration name="club" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory">
+      <method v="2" />
+    </configuration>
+    <configuration name="ppgso" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ppgso" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ppgso" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ppgso" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ppgso" TARGET_NAME="ppgso" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shaders" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ppgso" TARGET_NAME="shaders" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gl1_gradient.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ppgso" TARGET_NAME="gl1_gradient.cpp" CONFIG_NAME="gl1_gradient.cpp">
+      <option name="sourceFile" value="src\gl1_gradient\gl1_gradient.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.gl1_gradient.cpp" />
+      <item itemvalue="CMake Application.main" />
+      <item itemvalue="CMake Application.ppgso" />
+      <item itemvalue="CMake Application.shaders" />
+      <item itemvalue="CMake Debug.club" />
+      <item itemvalue="CMake Debug.ppgso" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="CMake Debug.ppgso" />
+        <item itemvalue="C/C++ File.gl1_gradient.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7b40d17-cf0c-4661-9a99-5306aa5fe05a" name="Changes" comment="" />
+      <created>1758619807308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758619807308</updated>
+      <workItem from="1758619808477" duration="1531000" />
+      <workItem from="1758621897309" duration="403000" />
+      <workItem from="1758623614504" duration="960000" />
+      <workItem from="1758624611761" duration="958000" />
+      <workItem from="1758637106639" duration="364000" />
+      <workItem from="1758637498133" duration="2432000" />
+      <workItem from="1759241392284" duration="1017000" />
+      <workItem from="1759242571073" duration="5513000" />
+      <workItem from="1759845980600" duration="5269000" />
+      <workItem from="1760450535068" duration="5832000" />
+      <workItem from="1761055675650" duration="10418000" />
+      <workItem from="1761378824068" duration="2461000" />
+      <workItem from="1761381325158" duration="10000" />
+      <workItem from="1761658982203" duration="9221000" />
+      <workItem from="1761731947835" duration="1163000" />
+      <workItem from="1761734007292" duration="19000" />
+      <workItem from="1761734180914" duration="112000" />
+      <workItem from="1761734361445" duration="92000" />
+      <workItem from="1761734623259" duration="476000" />
+      <workItem from="1761735106991" duration="170000" />
+      <workItem from="1761735484365" duration="81000" />
+      <workItem from="1761735632963" duration="888000" />
+      <workItem from="1761736695274" duration="7000" />
+      <workItem from="1761736843575" duration="15000" />
+      <workItem from="1761736956087" duration="95000" />
+      <workItem from="1761737199065" duration="87000" />
+      <workItem from="1761737419714" duration="18000" />
+      <workItem from="1761737469436" duration="25000" />
+      <workItem from="1761737520019" duration="337000" />
+      <workItem from="1761737875194" duration="54000" />
+      <workItem from="1761737970554" duration="26000" />
+      <workItem from="1761738034390" duration="6000" />
+      <workItem from="1761738055170" duration="35000" />
+      <workItem from="1761738144827" duration="145000" />
+      <workItem from="1761738301153" duration="103000" />
+      <workItem from="1761738409935" duration="41000" />
+      <workItem from="1761738505015" duration="75000" />
+      <workItem from="1761738951266" duration="23000" />
+      <workItem from="1761738995880" duration="209000" />
+      <workItem from="1761739562498" duration="191000" />
+      <workItem from="1761739790830" duration="14000" />
+      <workItem from="1761739860164" duration="8000" />
+      <workItem from="1761739871249" duration="2000" />
+      <workItem from="1761739911258" duration="87000" />
+      <workItem from="1761740076807" duration="54000" />
+      <workItem from="1761740810516" duration="14000" />
+      <workItem from="1761741027548" duration="9000" />
+      <workItem from="1761742354904" duration="15000" />
+      <workItem from="1761742435930" duration="15000" />
+      <workItem from="1761745085702" duration="502000" />
+      <workItem from="1762268620133" duration="36000" />
+      <workItem from="1762268767780" duration="5392000" />
+      <workItem from="1762375318871" duration="167000" />
+      <workItem from="1762375564829" duration="80000" />
+      <workItem from="1762376115041" duration="276000" />
+      <workItem from="1762377229322" duration="39000" />
+      <workItem from="1762377496473" duration="626000" />
+      <workItem from="1762379024279" duration="46000" />
+      <workItem from="1762379240654" duration="27000" />
+      <workItem from="1762379319497" duration="13000" />
+      <workItem from="1762379579483" duration="29000" />
+      <workItem from="1762379859557" duration="7000" />
+      <workItem from="1762379912400" duration="12000" />
+      <workItem from="1762379982945" duration="25000" />
+      <workItem from="1762380054111" duration="16000" />
+      <workItem from="1762380569696" duration="46000" />
+      <workItem from="1762380824733" duration="294000" />
+      <workItem from="1762381286192" duration="31000" />
+      <workItem from="1762381803980" duration="125000" />
+      <workItem from="1762382129320" duration="9000" />
+      <workItem from="1762382983870" duration="13000" />
+      <workItem from="1762383302296" duration="59000" />
+      <workItem from="1762383584182" duration="569000" />
+      <workItem from="1762384190862" duration="397000" />
+      <workItem from="1762384738479" duration="48000" />
+      <workItem from="1762385193134" duration="79000" />
+      <workItem from="1762385448604" duration="166000" />
+      <workItem from="1762415797534" duration="32000" />
+      <workItem from="1762415949633" duration="31000" />
+      <workItem from="1762418109189" duration="279000" />
+      <workItem from="1762418500615" duration="1613000" />
+      <workItem from="1762420142532" duration="1184000" />
+      <workItem from="1762422695372" duration="2599000" />
+      <workItem from="1762426297600" duration="19000" />
+      <workItem from="1762426328882" duration="7737000" />
+      <workItem from="1762435394054" duration="315000" />
+      <workItem from="1762436100226" duration="2477000" />
+      <workItem from="1762508975347" duration="379000" />
+      <workItem from="1762509485528" duration="4015000" />
+      <workItem from="1764084638287" duration="76000" />
+      <workItem from="1764084782128" duration="61000" />
+      <workItem from="1764084874810" duration="3514000" />
+      <workItem from="1764599913496" duration="30772000" />
+      <workItem from="1764683730830" duration="34619000" />
+      <workItem from="1764760678810" duration="25765000" />
+      <workItem from="1764797687509" duration="72640000" />
+      <workItem from="1764970608434" duration="428000" />
+      <workItem from="1764971281216" duration="106874000" />
+      <workItem from="1765363491458" duration="9519000" />
+      <workItem from="1765484189094" duration="22089000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/gl2_texture/gl2_texture.cpp</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
